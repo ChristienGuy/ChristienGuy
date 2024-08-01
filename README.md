@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey 🙏
 
+I'm a Frontend Engineer at [Qogita](https://github.com/qogita). 
+
+I love making UI that does the job you need then gets out of the way. Especially focused on performant, accessible interfaces.
+
+I mostly work in React, Next.js, or Remix
 <!--
 **ChristienGuy/ChristienGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
