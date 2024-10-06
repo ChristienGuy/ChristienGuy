@@ -1,6 +1,6 @@
 ## Hey 🙏
 
-I'm a Frontend Engineer at [Qogita](https://github.com/qogita). 
+I'm a Frontend Engineer, formerly Qogita and Impala
 
 I love making UI that does the job you need then gets out of the way. Especially focused on performant, accessible interfaces.
 
