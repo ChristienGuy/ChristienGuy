@@ -1,10 +1,9 @@
 ## Hey 🙏
 
-I'm a Frontend Engineer, formerly Qogita and Impala
-
-I love making UI that does the job you need then gets out of the way. Especially focused on performant, accessible interfaces.
+I'm a Software Engineer that loves building products that do the job you need, then gets out of the way. Especially focused on performant, accessible interfaces.
 
 I mostly work in TypeScript and React but I'll pick up whatever gets the job done.
+
 <!--
 **ChristienGuy/ChristienGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
