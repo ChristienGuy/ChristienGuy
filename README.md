@@ -1,6 +1,6 @@
 ## Hey 🙏
 
-I'm a Software Engineer that loves building products that do the job you need, then gets out of the way. Especially focused on performant, accessible interfaces.
+I'm a Software Engineer that loves building products that do the job you need, then gets out of the way. Especially focused on performant, accessible user experience.
 
 I mostly work in TypeScript and React but I'll pick up whatever gets the job done.
 
