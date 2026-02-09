@@ -1,8 +1,6 @@
 ## Hey 🙏
 
-I'm a Software Engineer that loves building products that do the job you need, then get out of the way. Especially focused on performant, accessible user experiences.
-
-I mostly work in TypeScript and React but I'll pick up whatever gets the job done.
+I'm a Design Engineer that loves building things on the web that do the job you need, then get out of the way. I care a lot about how they look and feel to use.
 
 <!--
 **ChristienGuy/ChristienGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
