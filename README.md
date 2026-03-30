@@ -1,6 +1,6 @@
 ## Hey 🙏
 
-I'm a Design Engineer that loves building things on the web that do the job you need, then get out of the way. I care a lot about how they look and feel to use.
+I'm Chris, a Design Engineer that loves building things on the web that do the job you need, then get out of the way. I care a lot about how they look and feel.
 
 <!--
 **ChristienGuy/ChristienGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
